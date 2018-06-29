@@ -362,12 +362,13 @@ function getImage(code,type,url,gluon) {
 
 </div>
 
-**Erstinstallation** wählst du für Router, die noch die Originalfirmware des Herstellers installiert haben und diese nicht auf OpenWRT basiert. \\
+**Erstinstallation** wählst 
+für Router, die noch die Originalfirmware des Herstellers installiert haben und diese nicht auf OpenWRT basiert. \\
 Ist bereits eine Freifunk München Firmware oder OpenWRT bzw. LEDE installiert worden und du möchtest manuell upgraden, lade dir das Image mit **Aktualisierung**.
 
 ## Segmente
 
-Aufgrund des schnellen Wachstums des Netzes und den damit verbundenen größeren Anforderungen haben wir uns entschlossen Freifunk München in die 2 Segmente "Kernbereich" und "Umland" aufzuteilen. <br>
+Aufgrund des schnellen Wachstums des Netzes und den damit verbundenen größeren Anforderungen haben wir uns entschlossen Freifunk München in die 3 Segmente "Kernbereich", "Umland" und "Welcome" aufzuteilen. Mehr Informationen findest du in der [Wiki](https://ffmuc.net/wiki/p/Segmente#Die_aktuellen_Segmente). <br>
 Knoten aus unterschiedlichen Segmenten können **nicht** miteinander meshen, sind jedoch über das VPN verbunden.
 
 **Wähle bitte den Bereich in dem sich dein Knoten befinden wird während der Konfiguration deines Routers aus.**
