@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Firmware
+title: Firmware herunterladen
 permalink: /firmware/
 ---
 
-Wir unterstützen aktuell verschiedene Routermodelle. Zunächst musst Du prüfen, welche Firmware Du benötigst. Wichtig ist der Router-Typ (1) und die Hardware-Version (2). Beide Informationen findest Du auf der Rückseite Deines Geräts.
+Wir unterstützen aktuell verschiedene Routermodelle. Am Besten siehst Du vor dem Kauf nach welchen Router-Typ und Hardware-Version wir unterstüzten.  
+
+Zunächst musst Du prüfen, welche Firmware Du benötigst. Wichtig ist der Router-Typ (1) und die Hardware-Version (2). Beide Informationen findest Du auf der Rückseite Deines Geräts.
 
 ![Modell und Version](/assets/router-flashen/guide-14.jpg)
 
